@@ -2,4 +2,6 @@
 
 Author: Isaac Wu
 
-Solving merge conflicts takes conscious effort, but I can do it!
+Like the most: Make the things reversible with records!
+
+Challenging: Working alone is fine but working with others are difficult.
